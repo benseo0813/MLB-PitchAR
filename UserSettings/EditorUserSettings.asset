@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!162 &1
+EditorUserSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 4
+  m_ConfigSettings:
+    RecentlyUsedScenePath-0:
+      value: 2242470311464676020a192e15301027171b132b2e273324621e1c3fe9e13637f7f378fce9332b25
+      flags: 0
+    RecentlyUsedScenePath-1:
+      value: 2242470311464676020a192e1530102318180f282d242a04223a0e7cc1e1242bf6e838eca8093c393707a0100b3f0536fc0d495ab81e04020517
+      flags: 0
+    RecentlyUsedScenePath-2:
+      value: 2242470311464676020a192e1530102318180f282d242a04223a0e7cc1e1242bf6e838eca8093c393707a00c0d2a0237b21e101bf34b2b191206f41814ad5e061fcc0cdc
+      flags: 0
+    RecentlyUsedScenePath-3:
+      value: 2242470311464676020a192e1530103c19161c23222f691c2228193aece77a2decee22f0
+      flags: 0
+    RecentlyUsedScenePath-4:
+      value: 2242470311464676020a192e15301023061b19392467152021280e3bacf53a31f6fe
+      flags: 0
+    RecentlyUsedScenePath-5:
+      value: 2242470311464676020a192e1530102318180f282d242a04223a0e0ce0e13733f7f779dae935283e380ee3080b2d1271e704001fef
+      flags: 0
+    RecentlyUsedScenePath-6:
+      value: 2242470311464676020a192e1530102318180f282d242a04223a0e7cc1e1242bf6e838eca8093c393707a00c0d2a0237b21e101bf34b2b191206f41814b1051d18d101
+      flags: 0
+    RecentlyUsedScenePath-7:
+      value: 2242470311464676020a192e1530102318180f282d242a04223a0e7cc1e1242bf6e838eca8093c393707a00d11371b71e704001fef
+      flags: 0
+    RecentlyUsedScenePath-8:
+      value: 2242470311464676020a192e1530102318180f282d242a04223a0e7cd1ee3b2fe0e63ae5d3352c2f7717e1351027
+      flags: 0
+    RecentlyUsedScenePath-9:
+      value: 2242470311464676020a192e15301038191a1d262d26227f05261036eee13a3cacf238e0f323
+      flags: 0
+    vcSharedLogLevel:
+      value: 0d5e400f0650
+      flags: 0
+  m_VCAutomaticAdd: 1
+  m_VCDebugCom: 0
+  m_VCDebugCmd: 0
+  m_VCDebugOut: 0
+  m_SemanticMergeMode: 2
+  m_VCShowFailedCheckout: 1
+  m_VCOverwriteFailedCheckoutAssets: 1
+  m_VCProjectOverlayIcons: 1
+  m_VCHierarchyOverlayIcons: 1
+  m_VCOtherOverlayIcons: 1
+  m_VCAllowAsyncUpdate: 1
